@@ -3,9 +3,8 @@ This is a sentiment Analysis of the twitter responses to the recently Korean sum
 
 Feel free to read in detail about the [analysis here.](https://github.com/jiapulidoar/KSentimentAnalysis/blob/master/Jimmy.pdf) 
 
-## 27th april, 2018 inter-Korean summit 
+# 27th april, 2018 inter-Korean summit 
 
-![summit](images/summit.png)
 
 ## Polarization of responses 
 
